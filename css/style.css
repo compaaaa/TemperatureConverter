@@ -1,4 +1,13 @@
+body{
+    font-family: sans-serif;
+}
 #logo{
     margin: auto;
     display: block;
+}
+
+.big-button{
+    width: 47vw;
+    height: 47vw;
+    font-size: 1.5em;
 }
